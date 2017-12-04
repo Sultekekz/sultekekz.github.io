@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: http://www.greenomir.com/sitemap.xml
+Host: http://www.greenomir.com

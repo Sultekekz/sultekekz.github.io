@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<script type="text/javascript">var _LANG_ = "ru", ajaxFile = "/cms/../ajax.php";</script>
+
+<script type="text/javascript">var _NOWORD_ = "Введите слово для поиска", _TOOLONG_ = "Слово для поиска должно быть длиннее 3-х символов", _SEARCHWORD_ = "Поиск по сайту";</script>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Написать отзыв &mdash; Green Өmir - Экологичная мебель в Алматы</title>
+<meta name="keywords" content="Экологическая мебель в Алматы, Офисная мебель в Алматы, Лофт в алматы, минимализм в Алматы, loft в Алматы, Стильная мебель из дерева в Алматы, Мебель для дома из дерева в Алматы, Дизайнерская мебель Алматы, Экологичная мебель в Алматы, мебель из стали и дерева в Алматы, стильная мебель в Алматы, Мебель в скандинавском стиле Алматы">
+<meta name="description" content="Мебель Green Өmir производится из материалов с маркировкой PEFC, FSC европейских лесов экологического типа. Экологичная мебель в Алматы">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="../../favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon" />
+<script src="http://www.greenomir.com/js/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="http://www.greenomir.com/js/ui/ui.js"></script>
+<script type="text/javascript" src="http://www.greenomir.com/js/jquery.placeholder.min.js"></script>
+<link href="../../js/ui/ui.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.greenomir.com/cms/public/validate.js"></script>
+ <link rel="stylesheet" href="../../css/jquery.fancybox.css">
+ <link rel="stylesheet" href="../../css/slick.css">
+ <link rel="stylesheet" href="../../css/slick-theme.css">
+ <link rel="stylesheet" href="../../css/style.min.css">
+<script type="text/javascript" src="http://www.greenomir.com/init.js"></script>
+<script type="text/javascript" src="http://www.greenomir.com/cms/files/appends/ckeditor/ckeditor.js"></script>
+<script type="text/javascript" src="http://www.greenomir.com/cms/files/appends/ckeditor/adapters/jquery.js"></script>
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<meta name="yandex-verification" content="0b0c3c01980ab750" />
+<meta name="google-site-verification" content="EQ1mtHOgWGrAvFk4nCF-yPXWNapWCUQvO6X_-UZea0I" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84155617-30', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+    jQuery.browser = {};
+    (function () {
+        jQuery.browser.msie = false;
+        jQuery.browser.version = 0;
+        if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+            jQuery.browser.msie = true;
+            jQuery.browser.version = RegExp.$1;
+        }
+    })();
+</script>
+
+</head>
+<body data-lang="ru" class="ru">
+<div style="position: absolute;">
+	
+			
+		
+		
+</div>
+<!--[if lt IE 9]>
+    <p class="browsehappy">Вы используете очень<strong> устаревший</strong> браузер. Пожалуйста <a href="http://browsehappy.com/">обновите Ваш браузер</a> и будет вам счастье:)</p>
+<![endif]-->
+ 
+	  <header class="header-page head-bg-1 header-2"><!-- Шапка -->
+	  		<img src="../../img/head-bg-1.jpg" alt="">
+        <div id="navigation" class="navigation">
+            <a class="logo" href="../index.html"><img src="../../img/logo.png" alt=""><img class="logo-min" src="../../img/logo-min.jpg" alt=""></a>
+            <a class="toggleMenu" href="index.html@pg=1#">
+				<span></span>
+				<span></span>
+				<span></span>
+            </a>
+             <ul class="nav" > <a href="index.html@pg=1#" class="close-nav"></a>
+<li><a href="../index.html">Главная</a></li>
+<li><a href="../about/index.html">О компании</a></li>
+<li><a href="../750-partnery.html">Партнеры</a></li>
+<li><a href="../catalog/index.html">Магазин</a></li>
+<li><a href="../454-dostavka.html">Доставка</a></li>
+<li><a href="../news/index.html">Новости</a></li>
+<li class="active"><a href="index.html">Отзывы</a></li>
+<li><a href="../contacts/index.html">Контакты</a></li>
+</ul>
+           	
+      	 <form method="POST" class="search" action="http://www.greenomir.com/ru/search/" onsubmit="return checkSearchForm(this)">
+                <span>
+                    <input name="what" type="search" placeholder="Поиск по сайту" required="required">
+                    <input type="submit" value="">
+                    <a class="search-close"></a>
+                </span>
+            </form>
+            <a href="index.html@pg=1#" class="search-btn"></a>
+                
+      		<span class="lang">
+               <a href="index.html@pg=1#" class="lang-ru">RU</a><a href="../../en/index.html" class="lang-en">ENG</a><a href="../../kz/index.html" class="lang-kz">KZ</a>
+            </span>
+            <a href="../../rycle/index.html"  class="order-icon"></a>
+            
+	<div class="social-icon">
+		<p></p>
+        
+			<a href="https://www.facebook.com/Green-%D3%A8mir-1709035955996242/?ref=br_rs" target="_blank" class="face"></a>
+			
+
+			<a href="https://www.instagram.com/green_omir/" target="_blank" class="inst"></a>
+			
+    </div>
+	
+        </div>
+
+        
+      <div class="breadcrums">
+            <h1>Написать отзыв</h1>
+            <ul>
+                <li><a href="../index.html">Главная</a></li>
+<li><a href="index.html@pg=1#">Написать отзыв</a></li>
+            </ul>
+        </div>
+    </header><!-- Шапка -->
+	
+    
+        <div class="content company"><!-- Контент -->
+        <div class="container " style="text-align: left;">
+            <style type="text/css">
+ul.advices-list{
+	list-style-type:square;
+	color:red;
+}
+
+ul.advices-list li{
+	margin-bottom:20px;
+}
+
+ul.advices-list li .nick{
+	margin-bottom:5px;
+}
+
+ul.advices-list li .nick a:link, ul.advices-list li .nick a:visited{
+	
+}
+
+ul.advices-list li .name a:link, ul.advices-list li .name a:visited{
+	color:#666;
+}
+
+ul.advices-list li .name a:hover{
+}
+
+ul.advices-list li .text2{
+	display:none;
+	margin-top:10px;
+	color:black;
+}
+
+#ask-form{
+	margin-top:20px;
+	padding:10px 20px;
+	float:left;
+	background-color:#EEE;
+	border:1px solid #CCC;
+	font: 12px Arial;
+}
+
+#ask-form .title{
+	font-size: 12px;
+	text-transform: none;
+	margin-top: 7px;
+}
+
+#ask-form input[type="text"]{
+	width: 129px;
+}
+
+#ask-form input[type="text"], #ask-form textarea{
+	border: #AAA solid 1px;
+	padding: 2px 5px;
+	font: 12px Arial;
+	margin-top: 2px;
+}
+#ask-form input[type="submit"]{
+	margin-top: 10px;
+	padding: 1px 5px;
+	cursor: pointer;
+}
+</style>
+<script type="text/javascript">
+
+function askForm(){
+	var div = $('#ask-form').slideToggle('normal');
+	return false;
+}
+
+function checkForm(f){
+	var msg = [];
+	
+	if(f['fields[Имя]'].value=='') msg.push('Не заполнено Ваше имя');	
+	if(!f['fields[Email]'].value.match(/^[\d\w\.-]+@([\d\w-]+)((\.[\w\d-]+)+)?\.\w{2,6}$/)) msg.push('Не корректный адрес электронной почты');
+	if(f['fields[Текст]'].value=='') msg.push('Не заполнен текст отзыва');
+	// if(f['captcha'].value=='') msg.push('Не заполнен код с картинки');
+	
+	if(msg.length>0){
+		alert("Следующие ошибки в заполнении:\n\n"+msg.join("\n"));
+		return false;
+	}
+	return true;
+}
+function newCaptcha(img){
+	var randDig=(Math.random()*10)+1|0;
+	img.attr('src', '/cms/files/appends/kcaptcha/index.php?rand='+randDig);
+	return false;
+}
+</script>
+<div><a href="index.html@pg=1#" onclick="return askForm()">Вы можете написать свой отзыв.</a></div>
+<div id="ask-form" style="display:none">
+	<form method="POST" onsubmit="return checkForm(this)">
+		<table cellpadding="0" cellspacing="0">
+			<tr>
+				<td valign="top">
+					<div class="row">
+						<div class="title">Ваше имя</div>
+						<div><input type="text" name="fields[Имя]" value=""></div>
+					</div>
+				</td>
+					<td width="10">&nbsp;</td>
+				<td valign="top">
+					<div class="row">
+						<div class="title">E-mail</div>
+						<div><input type="text" name="fields[Email]" value=""></div>
+					</div>
+				</td>
+			</tr>
+		</table>
+		<div class="row">
+			<div class="title">Ваш отзыв</div>
+			<div><textarea name="fields[Текст]" style="width:280px; height:100px;"></textarea></div>
+		</div>
+		<div class="row">
+			<!-- <table border="0" cellspacing="0" cellpadding="0" style="margin-top: 7px;">
+				<tr><td colspan="2">Код с картинки</td></tr>
+				<tr>
+					<td valign="top" style="padding-right: 11px; padding-top: 5px;">
+						<img src="/cms/files/appends/kcaptcha/?PHPSESSID=n2ru1gtc0thkvjeknf8qdb1dm5" id="captcha_img" />
+					</td>
+					<td valign="top" align="right" style="padding-top: 5px;">
+						<table border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top" height="30"><input type="text" maxlength="6" name="captcha" style="width:100px" /><span class="error"></span></td>
+							</tr>
+							<tr>
+								<td align="left"><a href="#" onclick="return newCaptcha( $('#captcha_img') )">обновить код</a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table> -->
+			<div class="g-recaptcha" data-sitekey="6LeATyoUAAAAALHSZuT1Zc55PPjLYF9eOAXX0ZZE"></div>
+		</div>
+		<div><input type="submit" value="Отправить"></div>
+	</form>
+</div>
+<div style="clear:both;"></div>
+<br>
+<div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-842"><div style="padding-bottom:5px;"><strong id="advice-42-842" style="font-weight: bold;">Жандос и Аида</strong>, 8 сентября 2017, пятница</div>Еще с идеи открытия собственной фитнес студии мы решили что дизайн и мебель должны быть в стиле лофт и индастриал. Если с ремонтом все было относительно просто, то найти достойную мебель по хорошей цене было просто нереально! Перерыв весь казахстанский интернет я наткнулась на сайт Greenomir и моментально влюбилась! Это было именно то что мы искали! Приехали в шоурум, познакомились с Бибигуль, увидели мебель вживую и уже укрепившись в своем решении сразу сделали заказ! Бибигуль дала очень много ценных советов, нашла идеально подходящий нам по цвету и фактуре вариант дерева и учла все наши просьбы и пожелания! Заказ был сделан в срок и очень качественно! Мы очень довольны мебелью и тем фактом что у нас в Казахстане есть такая компания где качество и сервис это не пустой звук! В свою будущую квартиру будем заказывать мебель тоже у Greenomir! Желаем Вам процветания и успехов на Вашем пути! С уважением, Жандос и Аида</div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-812"><div style="padding-bottom:5px;"><strong id="advice-42-812" style="font-weight: bold;">Интернет магазин колготок</strong>, 26 мая 2017, пятница</div>Для участия в Almaty Popup Store нам понадобилось торговое оборудование для представления своей продукции. В отличие от других участников, которые продавали в основном одежду, развесив ее на вешалках, нам надо было что то особенное, так как разложить колготки и носки просто на столе не хотелось. Обратившись к Бибигуль, она предложила интересный вариант стенда, который явно выделялся, сделав наш уголок очень стильным. Мы были очень рады, что мы не выглядели как на барахолке:) Надеемся, что данное оборудование нам пригодится и в будущем! </div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-804"><div style="padding-bottom:5px;"><strong id="advice-42-804" style="font-weight: bold;">Айнура</strong>, 25 апреля 2017, вторник</div>Добрый день! столкнувшись с проблемой нехватки нормальной , стильной и не дорогоймебели в Алматы, я искала, просто везде.
+Мне понадобилась банкетка. Я обошла кучу магазинов, но ничего подходящего не нашла, тогда по совету знакомой обратилась в Green Omir, мне понравился серьезный подход, качество и цена. Банкетку сделали за несколько дней, по моей фотографии. Спасибо за проделанную работу! Буду заказывать еще!</div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-783"><div style="padding-bottom:5px;"><strong id="advice-42-783" style="font-weight: bold;">Виктория, Viktoriya Azerbayeva и VA_kids.</strong>, 13 апреля 2017, четверг</div>С Green Omir мы познакомились год назад. Очень понравился европейский стиль лофт и экологичность материалов. В июне прошлого года, мы у них заказали оборудование в наш детский бутик. Все было сделано качественно и доставлено в срок. С тех пор мы постоянные клиенты этой компании!!! </div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-747"><div style="padding-bottom:5px;"><strong id="advice-42-747" style="font-weight: bold;">Ризат, The HUB Coworking, Almaty</strong>, 18 марта 2017, суббота</div>В связи с открытием The HUB Coworking в Алматы  мы разместили  заказ на изготовление  мебели  в  компании  Green Omir.  Несмотря на большой объем заказа и сжатые сроки, мебель  была изготовлена качественно и своевременно.  Нам понравился  дизайн мебели в стиле лофт и демократичный уровень цен. Также часть мебели мы заказали в IKEA. 
+Рекомендуем производителя мебели ТОО Green Omir, как надежного и ответственного поставщика.  
+</div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-745"><div style="padding-bottom:5px;"><strong id="advice-42-745" style="font-weight: bold;">Дидара</strong>, 13 марта 2017, понедельник</div>Заказала два кофейных столика со столешницей из сруба, карагач и дуб, не могла выбрать один и купила два. Очень красиво, не нарадуюсь. Жду, когда вы начнете выпускать зеркала и торшеры!</div>
+<div></div>
+<div style="margin-bottom: 7px; border-bottom: #AAA dotted 1px; padding-bottom: 7px;" id="p-744"><div style="padding-bottom:5px;"><strong id="advice-42-744" style="font-weight: bold;">Брэнд Aliya Valeryevna</strong>, 13 марта 2017, понедельник</div>Очень редко пишу отзывы на сайтах.. Но с находкой такого loft бренда как Green_omir хочется поделится со всеми!! При открытии своего шоурума в Астане, озадачилась оборудованиям (нужна была ковка) В Астане обошла много цехов по ковке, зарядили неимоверные цены... и тут подруга скинула инста страничку green_omir где я нашла решения на все свои идеи </div>
+<div></div>
+</div>
+<div style="padding-top:20px;"><div class="page_nav"><a class="num_str active" href="javascript:void(0)"><span>1</span></a>
+<a class="num_str" href="index.html@pg=2"><span>2</span></a>
+<a class="nextpage" href="index.html@pg=2"><span>Вперед</span></a></div></div>
+        </div>
+        <a href="index.html@pg=1#navigation" class="arrow-up" style="opacity: 0;">100</a>
+    </div>
+           
+	 <footer><!-- Подвал -->
+        <div class="footer-1">
+            <div class="footer-1-blog">
+                <a href="../index.html" class="footer-logo"><img src="../../img/logo.png" alt=""></a>
+                <p>
+	Green Өmir - 1 ГОД. Наша задача &ndash; привнести в Ваш интерьер стиль, комфорт, качество.</p>
+
+            </div>
+            
+		<div class="footer-1-blog">
+                <h5>КАТАЛОГ</h5>
+                <ul class="footer-2-ul">
+ <li ><a href="../catalog/139-ofisnyje_pismennyje_stoly/index.html">Офисные
+ письменные столы</a></li>
+ <li ><a href="../catalog/140-zhurnalnyje_stoly/index.html">Журнальные
+ столы</a></li>
+ <li ><a href="../catalog/401-kresla_stulja/index.html">Кресла,
+ стулья</a></li>
+ <li ><a href="../catalog/720-tkani_i_materialy/index.html">Ткани и
+материалы</a></li>
+ <li ><a href="../catalog/402-stellazhi_polki/index.html">Стеллажи,
+ полки</a></li>
+
+				 </ul>
+                <ul class="footer-1-ul">
+				
+ <li ><a href="../catalog/403-stoliki_konsoli/index.html">Столики-
+консоли</a></li>
+ <li ><a href="../catalog/404-garderobnoje_khranenije/index.html">Гардеробное
+ хранение</a></li>
+ <li ><a href="../catalog/405-predmety_interjera/index.html">Предметы
+ интерьера</a></li>
+ <li ><a href="../catalog/406-unikalnaja/index.html">Уникальная
+ коллекция из дерева</a></li>
+
+				 </ul>
+            </div>
+	
+            <div class="footer-1-blog">
+                <h5>НАВИГАЦИЯ</h5>
+                <ul > <a href="index.html@pg=1#" class="close-nav"></a>
+<li><a href="../index.html">Главная</a></li>
+<li><a href="../about/index.html">О компании</a></li>
+<li><a href="../750-partnery.html">Партнеры</a></li>
+<li><a href="../catalog/index.html">Магазин</a></li>
+<li><a href="../454-dostavka.html">Доставка</a></li>
+<li><a href="../news/index.html">Новости</a></li>
+<li class="active"><a href="index.html">Отзывы</a></li>
+<li><a href="../contacts/index.html">Контакты</a></li>
+</ul>
+            </div>
+            <div class="footer-1-blog">
+                <h5>НАШИ КОНТАКТЫ<br />
+<br />
+</h5>
+                <ul class="footer-cont">
+                    <li class="footer-address"><p>г. Алматы, ул. имени Валиханова 170</p></li>
+                    <li class="footer-email"><a href="mailto:info@greenomir.com">info@greenomir.com</a></li>
+                    <li class="footer-num"><p>+7 (701) 710-03-78<br />
++7 (727) 317-98-98</p></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-2">
+            <p>Copyright © 2017 Green Өmir</p>
+            
+	<div class="social-icon">
+		<p>Green Өmir в социальных сетях:</p>
+        
+			<a href="https://www.facebook.com/Green-%D3%A8mir-1709035955996242/?ref=br_rs" target="_blank" class="face"></a>
+			
+
+			<a href="https://www.instagram.com/green_omir/" target="_blank" class="inst"></a>
+			
+    </div>
+	
+            <p>Создание сайта - <a class="artmedia" href="http://www.artmedia.kz/" target="_blank"><img src="../../img/artmedia.png" alt=""></a></p>
+        </div>
+    </footer><!-- Подвал -->
+	
+    <script src="http://www.greenomir.com/js/jquery.fancybox.js"></script>
+    <script src="http://www.greenomir.com/js/jquery.mousewheel.pack.js"></script>
+    <script src="http://www.greenomir.com/js/slick.min.js"></script>
+    <script src="http://www.greenomir.com/js/common.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+</body>
+</html>
